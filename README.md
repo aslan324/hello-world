@@ -1,3 +1,7 @@
 # hello-world
 first repo
-gidiyor
+<ol>
+  <li>şimdi</li>
+  <li>nereye</li>
+  <li>gidiyorsun?</li>
+</ol>
